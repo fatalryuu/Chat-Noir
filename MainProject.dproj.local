@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.631,C:\Лабы\курсач\UnitName.pas=C:\Лабы\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Лабы\курсач\Unit1.dfm=C:\Лабы\курсач\UnitScores.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,C:\Лабы\курсач\UnitName.dfm=C:\Лабы\курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,F:\bsuir\ОАиП\курсач\UnitBrain.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,E:\Work\bsuir\курсач\UnitMain.pas=C:\Users\vanya\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,F:\bsuir\ОАиП\курсач\UnitName.pas=F:\bsuir\ОАиП\курсач\UnitSave.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,F:\bsuir\ОАиП\курсач\UnitName.dfm=F:\bsuir\ОАиП\курсач\UnitSave.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,=E:\Work\bsuir\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,=E:\Work\bsuir\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,E:\Work\bsuir\курсач\UnitMain.dfm=C:\Users\vanya\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,E:\Work\bsuir\курсач\Unit1.pas=E:\Work\bsuir\курсач\UnitInstruction.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,E:\Work\bsuir\курсач\UnitLost.pas=E:\Work\bsuir\курсач\UnitLose.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,E:\Work\bsuir\курсач\MainProject.dproj=C:\Users\vanya\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,E:\Work\bsuir\курсач\Unit1.pas=E:\Work\bsuir\курсач\UnitLost.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,F:\bsuir\ОАиП\курсач\Unit1.pas=F:\bsuir\ОАиП\курсач\UnitBrain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,E:\Work\bsuir\курсач\Unit2.dfm=E:\Work\bsuir\курсач\UnitDeveloperInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,E:\Work\bsuir\курсач\Unit2.dfm=E:\Work\bsuir\курсач\UnitWin.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,E:\Work\bsuir\курсач\Unit2.pas=E:\Work\bsuir\курсач\UnitWin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\Лабы\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,=C:\Users\vanya\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Лабы\курсач\Unit1.pas=C:\Лабы\курсач\UnitScores.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,=C:\Лабы\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,E:\Work\bsuir\курсач\Unit1.dfm=E:\Work\bsuir\курсач\UnitLost.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,E:\Work\bsuir\курсач\UnitLost.dfm=E:\Work\bsuir\курсач\UnitLose.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=F:\bsuir\ОАиП\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,E:\Work\bsuir\курсач\Unit1.dfm=E:\Work\bsuir\курсач\UnitInstruction.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,E:\Work\bsuir\курсач\Unit2.pas=E:\Work\bsuir\курсач\UnitDeveloperInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,=E:\Work\bsuir\курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=E:\Work\bsuir\курсач\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitWin.pas"/>
+    <File Path="UnitWin.dfm"/>
+    <File Path="UnitLose.pas"/>
+    <File Path="UnitLose.dfm"/>
+    <File Path="UnitMain.pas"/>
+    <File Path="UnitMain.dfm"/>
+    <File Path="UnitSave.pas"/>
+    <File Path="UnitSave.dfm"/>
+    <File Path="UnitScores.pas"/>
+    <File Path="UnitScores.dfm"/>
+    <File Path="UnitInstruction.pas"/>
+    <File Path="UnitInstruction.dfm"/>
+    <File Path="UnitDeveloperInfo.pas"/>
+    <File Path="UnitDeveloperInfo.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
